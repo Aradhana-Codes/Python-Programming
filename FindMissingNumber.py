@@ -19,4 +19,5 @@ print("Missing number:",missing_number)
 
 """
 numbers=[1,2,3,5,6] -> len(numbers)=5 -> n=5+1=6 -> Expected numbers: 1 to 6 -> expected_sum=21 -> Calculate actual sum -> 1+2+3+5+6 -> actual_sum=17 -> 21-17=4 -> missingnumber=4
+
 """
