@@ -1,5 +1,5 @@
 """
-Find he largest and second largest elements in a list.
+Find the largest and second largest elements in a list.
 Example: input: [10,25,7,45,18]
          output: 
          Largest element: 45
